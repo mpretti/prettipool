@@ -57,8 +57,6 @@ group :development, :test do
   gem 'pry-byebug'
   gem 'pry-theme'
   gem 'pry-stack_explorer'
-  gem 'spring'
-  gem 'spring-commands-testunit'
   gem 'guard'
   gem 'guard-minitest'
   gem 'partially_useful'
